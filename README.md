@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website that details different herbal recipes comprised of herbs that one can grow in their own backyard along with everyday household items. 
